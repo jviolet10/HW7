@@ -1,0 +1,16 @@
+.jumbotron {
+    margin: 10px;
+    background-color: lightskyblue;
+}
+
+.btn-primary {
+    background-color: darkorchid;
+}
+
+#train-adder {
+    background-color: aqua;
+}
+
+#chart-table {
+    background-color: aqua;
+}
